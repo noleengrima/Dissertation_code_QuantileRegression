@@ -220,9 +220,3 @@ data.frame(
           MAE(pred_train[,4],interaction_train$Y)),
   row.names = c("tau=0.3","tau=0.5","tau=0.7","tau=0.95")
 )
-
-
-
-
-
-
